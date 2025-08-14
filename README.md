@@ -16,3 +16,11 @@
 2. Open `ecommerce_discount_causal_case_study.ipynb` and run.
 
 **Repo structure:**
+├─ README.md
+├─ ecommerce_discount_causal_case_study.ipynb
+├─ .gitignore
+└─ data/
+└─ .gitkeep (placeholder; datasets are not tracked)
+
+**Data:** The original dataset is synthetic and part of a paid course; it is **not** included.  
+**License:** MIT (see `LICENSE`).
