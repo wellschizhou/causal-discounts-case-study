@@ -210,17 +210,13 @@ __marimo__/
 data/*
 !data/.gitkeep
 
-# project data and artifacts
-data/
+# common extras
 *.csv
 *.parquet
 *.xlsx
-
-# notebooks & OS clutter
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/
-
 
 
 
